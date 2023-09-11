@@ -1,4 +1,4 @@
-# webpack loader -- webpack only understand the json and the javscript files. loader allows webpack to process other types of files and convert them into valid modules for your application
+## webpack loader -- webpack only understand the json and the javscript files. loader allows webpack to process other types of files and convert them into valid modules for your application
 
 ### There are many types of loader - 
 ### example babel-loader, sass-loader, coffee-loader etc
