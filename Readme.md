@@ -16,7 +16,7 @@
 #### --create weback.config.js file
 
 ### what is webpack?
-### Webpack in react is a JavaScript module bundler that is commonly used with React to bundle and manage dependencies. It takes all of the individual JavaScript files and other assets in a project, such as images and CSS, and combines them into a single bundle that can be loaded by the browser.To understand why you should use webpack, let's recap how we used JavaScript on the web before bundlers were a thing.
+#### Webpack in react is a JavaScript module bundler that is commonly used with React to bundle and manage dependencies. It takes all of the individual JavaScript files and other assets in a project, such as images and CSS, and combines them into a single bundle that can be loaded by the browser.To understand why you should use webpack, let's recap how we used JavaScript on the web before bundlers were a thing.
 
 ### why webpack?
 #### There are two ways to run JavaScript in a browser. First, include a script for each functionality; this solution is hard to scale because loading too many scripts can cause a network bottleneck. The second option is to use a big .js file containing all your project code, but this leads to problems in scope, size, readability and maintainability.
